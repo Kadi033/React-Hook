@@ -1,0 +1,10 @@
+.kd {
+  transition: 0.4s;
+  cursor: pointer;
+}
+.kadi {
+  width: 1016px;
+  height: 720px;
+  height: auto;
+  max-width: 100%;
+}

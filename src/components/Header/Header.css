@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+  
+  .cont:hover .border {
+    border-color: #FF8ED7;
+  }
+  
+  .cont:hover .border p {
+    color: #FF8ED7;
+  }
+  
+  .border , p {
+    cursor: pointer;
+    transition: .4s;
+  }
+  
+.flex {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 20px;
+}
